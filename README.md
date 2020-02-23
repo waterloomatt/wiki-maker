@@ -1,4 +1,4 @@
-#Wiki-Maker by Matt Skelton
+# Wiki-Maker by Matt Skelton
 
 This application consists of Go backend and React frontend. The entire source code is included here and will be compiled during the build.
 
