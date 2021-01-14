@@ -8,5 +8,5 @@ To start the application, navigate to the root of this directory and run:<br>
 
 Once completed, you should be able to view the application in the browser from [http://localhost:8080](http://localhost:8080).
 
-To create wiki entries, issue the following request
+To create wiki entries, issue the following request in a terminal 
 `curl -X PUT http://localhost:8080/articles/wiki -d 'A wiki is a knowledge base website'`
